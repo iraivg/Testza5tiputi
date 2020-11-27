@@ -12,7 +12,7 @@ public class sdaopjs {
 		for(int i=0; i<n; i++) {
 			System.out.println("Enter the element of the array: ");  
 			arr[i]=input.nextInt();
-		
+		ASDFGHJKL
 		}
 		int max = arr[0];
 		int index = 0;
