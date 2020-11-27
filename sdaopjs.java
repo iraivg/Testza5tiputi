@@ -21,7 +21,7 @@ public class sdaopjs {
 				index=i;
 				max=arr[i];
 			}
-		}
+		}TDFYFYGU
 		System.out.println(max);
 		int min = arr[0];
 		int index32 = 0;
